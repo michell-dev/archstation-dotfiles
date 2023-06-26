@@ -55,7 +55,7 @@ bindsym $mod+Return exec alacritty
 bindsym $mod+Shift+q kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec --no-startup-id rofi -show drun 
+bindsym $mod+d exec --no-startup-id rofi -show drun -icon-theme "Papirus" -show-icons
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
 # There also is i3-dmenu-desktop which only displays applications shipping a
@@ -198,8 +198,7 @@ exec_always picom
 exec sh /home/michell/.screenlayout/basic-layout.sh
 
 #set Wallpaper
-exec feh --bg-fill /home/michell/wallpapers/black_net.jpg
-
+exec feh --bg-center /home/michell/wallpapers/dark-angel.jpg
 #launch polybar
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
@@ -207,6 +206,6 @@ exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 exec_always xbindkeys
 
 # class                 border  backgr. text    indicator child_border                                                                     
-client.focused_inactive #181818 #212121 #d9d9d9 #181818 #181818                                                                            
-client.unfocused        #181818 #212121 #d9d9d9 #181818 #181818                                                                            
-client.focused          #181818 #cecece #000000 #181818 #181818
+client.focused_inactive #22292B #212121 #d9d9d9 #22292B #22292B                                                                           
+client.unfocused        #22292B #212121 #d9d9d9 #22292B #22292B                                                                            
+client.focused          #22292B #cecece #000000 #22292B #353535
