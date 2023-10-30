@@ -6,7 +6,6 @@ autoconf 2.71-4
 automake 1.16.5-2
 betterdiscord-installer 1.2.0-1
 bison 3.8.2-6
-blesh 0.3.3-3
 blueberry 1.4.8-1
 blueman 2.3.5-2
 bluez-utils 5.70-1
