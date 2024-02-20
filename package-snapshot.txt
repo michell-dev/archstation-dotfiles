@@ -23,6 +23,7 @@ cython 3.0.8-1
 d-feet 0.3.16-3
 db 6.2.32-1
 debugedit 5.0-5
+dejagnu 1.6.3-8
 discord 0.0.43-1
 electron 1:28-1
 electron19 19.1.9-5
