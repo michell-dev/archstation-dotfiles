@@ -74,13 +74,8 @@ pifpaf 3.2.3-1
 pkgconf 2.1.1-1
 polybar 3.7.2-2
 protontricks-git 1.10.1.r2.g6ad2772-1
-python-aiohttp 3.10.5-1
-python-dateutil 2.9.0-5
-python-docopt 0.6.2-13
 python-future 1.0.0-1
-python-pexpect 4.9.0-2
 python-ply 3.11-13
-python-plyvel 1.5.1-1
 python-ujson 5.10.0-1
 qbittorrent 5.0.0-1
 qt5-imageformats 5.15.15+kde+r4-1
