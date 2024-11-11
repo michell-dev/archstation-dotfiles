@@ -3,8 +3,7 @@ alsa-utils 1.2.12-1
 apparmor 4.0.3-1
 arandr 0.1.11-3
 arma3-unix-launcher-bin 373.cbdc17a-1
-autoconf 2.72-1
-automake 1.17-1
+autoconf-archive 1:2024.10.16-1
 betterdiscord-installer 1.2.0-1
 bison 3.8.2-8
 blueberry 1.4.8-2
@@ -38,6 +37,7 @@ flex 2.6.4-5
 glances 4.2.0-1
 gn 0.2174.b3a0bff4-1
 go 2:1.23.2-1
+go-tools 4:0.26.0-1
 gperf 3.1-5
 groff 1.23.0-7
 httpbin 0.10.2-2
@@ -75,6 +75,7 @@ pifpaf 3.2.3-1
 pkgconf 2.1.1-1
 polybar 3.7.2-2
 protontricks-git 1.10.1.r2.g6ad2772-1
+python-docutils 1:0.21.2-1
 python-future 1.0.0-1
 python-ply 3.11-13
 python-ujson 5.10.0-1
