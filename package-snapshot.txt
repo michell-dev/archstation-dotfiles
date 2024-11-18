@@ -24,7 +24,7 @@ cython 3.0.11-1
 d-feet 0.3.16-3
 db 6.2.32-1
 debugedit 5.1-1
-discord 0.0.74-1
+discord 0.0.75-1
 electron 1:33-1
 electron19 19.1.9-5
 electron27 27.3.11-7
@@ -56,6 +56,7 @@ lld 18.1.8-1
 lua52 5.2.4-7
 lxappearance 0.6.3-5
 mbedtls2 2.28.9-1
+meson 1.6.0-1
 nano 8.2-1
 ncdu 2.6-1
 neofetch 7.1.0-2
@@ -81,7 +82,7 @@ python-ply 3.11-13
 python-tomli 2.0.1-4
 python-ujson 5.10.0-1
 python-validate-pyproject 0.22-1
-qbittorrent 5.0.1-1
+qbittorrent 5.0.2-1
 qt5-imageformats 5.15.15+kde+r4-1
 qt5-quickcontrols 5.15.15-1
 qtkeychain-qt5 0.14.3-1
