@@ -35,14 +35,13 @@ flameshot 12.1.0-5
 flex 2.6.4-5
 glances 4.2.1-1
 gn 0.2201.feafd101-1
-go 2:1.23.3-1
+go 2:1.23.4-1
 go-tools 4:0.27.0-1
 gperf 3.1-5
 groff 1.23.0-7
 httpbin 0.10.2-2
 inkscape 1.4-2
 jq 1.7.1-2
-jre-openjdk-headless 23.0.1.u0-1
 js102 102.15.1-2
 js115 115.18.0-1
 ldns 1.8.4-1
@@ -83,6 +82,7 @@ python-ujson 5.10.0-1
 python-validate-pyproject 0.22-1
 qbittorrent 5.0.2-1
 qt5-imageformats 5.15.16+kde+r2-3
+qt5-networkauth 5.15.16+kde+r1-3
 qt5-quickcontrols 5.15.16-3
 qtkeychain-qt5 0.14.3-1
 radeontop 1.4-3
