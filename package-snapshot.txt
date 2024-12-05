@@ -82,7 +82,6 @@ python-ujson 5.10.0-1
 python-validate-pyproject 0.22-1
 qbittorrent 5.0.2-1
 qt5-imageformats 5.15.16+kde+r2-3
-qt5-networkauth 5.15.16+kde+r1-3
 qt5-quickcontrols 5.15.16-3
 qtkeychain-qt5 0.14.3-1
 radeontop 1.4-3
