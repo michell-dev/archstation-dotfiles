@@ -68,7 +68,6 @@ obs-studio 31.0.1-2
 obsidian 1.8.7-1
 otf-material-icons-git 4.0.0.r60.gc764ca99a5f-1
 pa-applet-git r19.3b4f8b3-5
-patch 2.7.6-10
 pavucontrol 1:6.1-1
 picom 12.5-1
 pifpaf 3.2.3-3
@@ -90,7 +89,6 @@ ranger 1.9.4-3
 reiserfsprogs 3.6.27-5
 rxfetch 1.0-1
 terminus-font 4.49.1-7
-texinfo 7.2-1
 thunar 4.20.2-1
 tree-sitter-bash 0.23.3-1
 tree-sitter-python 0.23.6-1
