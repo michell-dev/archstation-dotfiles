@@ -74,10 +74,13 @@ pifpaf 3.2.3-3
 pkgconf 2.3.0-1
 polybar 3.7.2-2
 protontricks-git 1.10.1.r2.g6ad2772-1
+python-build 1.2.2-3
 python-docutils 1:0.21.2-3
 python-future 1.0.0-1
+python-installer 0.7.0-10
 python-ordered-set 4.1.0-7
 python-ply 3.11-14
+python-poetry-core 2.1.1-1
 python-tomli 2.0.1-5
 python-ujson 5.10.0-2
 python-validate-pyproject 0.23-1
