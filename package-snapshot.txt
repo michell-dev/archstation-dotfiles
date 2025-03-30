@@ -107,7 +107,6 @@ wireshark-qt 4.4.5-1
 wpebackend-fdo 1.16.0-1
 xbindkeys 1.8.7-5
 xf86-video-amdgpu 23.0.0-2
-xorg-server-devel 21.1.16-1
 xorg-xinit 1.4.4-1
 xorg-xmessage 1.0.7-1
 yarn 1.22.22-2
