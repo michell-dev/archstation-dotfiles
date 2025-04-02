@@ -1,4 +1,3 @@
-7zip 24.09-3
 adobe-source-code-pro-fonts 2.042u+1.062i+1.026vf-2
 alacritty 0.15.1-1
 alsa-utils 1.2.13-2
