@@ -10,13 +10,13 @@ blueberry 1.4.8-2
 blueman 2.4.4-1
 bluez-utils 5.82-1
 botan2 2.19.5-2
-box2d 3.0.0-1
+box2d 3.1.0-1
 bpytop 1.0.68-2
 bridge-utils 1.7.1-2
 cargo-audit 0.21.2-1
 cbindgen 0.28.0-1
 chatterino2-debug 2.5.1-2
-code 1.99.2-1
+code 1.99.3-1
 colloid-cursors-git 2022.10.26.r17.g3a875d9-1
 colloid-icon-theme-git 2022.10.26.r17.g3a875d9-1
 corectrl 1.4.3-4
@@ -25,7 +25,7 @@ cython 3.0.12-1
 d-feet 0.3.16-3
 db 6.2.32-1
 debugedit 5.1-1
-discord 0.0.90-1
+discord 1:0.0.91-1
 electron 1:35-1
 electron19 19.1.9-5
 electron27 27.3.11-9
@@ -36,7 +36,7 @@ flex 2.6.4-5
 glances 4.3.1-1
 gn 0.2223.6e8e0d6d-1
 go 2:1.24.2-1
-go-tools 4:0.31.0-1
+go-tools 4:0.32.0-1
 gperf 3.1-5
 groff 1.23.0-7
 http-parser 2.9.4-2
@@ -49,7 +49,7 @@ ldns 1.8.4-1
 lib32-libxdamage 1.1.6-2
 libei 1.4.0-1
 libical 3.0.20-1
-libngtcp2 1.11.0-1
+libngtcp2 1.12.0-1
 libomxil-bellagio 0.9.3-5
 libreoffice-still 24.8.6-2
 libtermkey 0.22-3
@@ -86,7 +86,7 @@ python-ply 3.11-14
 python-tomli 2.0.1-5
 python-ujson 5.10.0-2
 python-validate-pyproject 0.24.1-1
-qbittorrent 5.0.4-3
+qbittorrent 5.0.5-1
 qtkeychain-qt5 0.15.0-1
 radeontop 1.4-3
 ranger 1.9.4-4
@@ -103,7 +103,7 @@ vlc 3.0.21-16
 vulkan-headers 1:1.4.309.0-1
 wayland-protocols 1.43-1
 webrtc-audio-processing-0.3 0.3.1-6
-wireshark-qt 4.4.5-1
+wireshark-qt 4.4.6-1
 wpebackend-fdo 1.16.0-1
 xbindkeys 1.8.7-5
 xf86-video-amdgpu 23.0.0-2
