@@ -26,7 +26,6 @@ d-feet 0.3.16-3
 db 6.2.32-1
 debugedit 5.1-1
 discord 1:0.0.91-1
-docker 1:28.1.1-1
 electron 1:35-1
 electron19 19.1.9-5
 electron27 27.3.11-9
@@ -70,7 +69,6 @@ obs-studio 31.0.3-1
 obsidian 1.8.9-2
 otf-material-icons-git 4.0.0.r60.gc764ca99a5f-1
 pa-applet-git r19.3b4f8b3-5
-pass 1.7.4-7
 patchutils 0.4.2-3
 pavucontrol 1:6.1-1
 perl-file-slurp-tiny 0.004-11
