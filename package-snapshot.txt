@@ -65,6 +65,7 @@ lua51-luautf8 0.1.6-1
 lua52 5.2.4-7
 lxappearance 0.6.4-1
 mbedtls2 2.28.10-1
+meson 1.8.2-2
 nano 8.4-1
 ncdu 2.7-1
 neofetch 7.1.0-2
