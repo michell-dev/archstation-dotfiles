@@ -32,7 +32,6 @@ electron19 19.1.9-5
 electron27 27.3.11-10
 flameshot 12.1.0-6
 flex 2.6.4-5
-gendesk 1.0.10-1
 glances 4.3.1-1
 gn 0.2238.a84e399f-1
 go 2:1.24.4-1
