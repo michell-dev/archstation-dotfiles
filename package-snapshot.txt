@@ -84,7 +84,6 @@ polybar 3.7.2-2
 protontricks-git 1.10.1.r2.g6ad2772-1
 python-docutils 1:0.21.2-3
 python-future 1.0.0-1
-python-html2text 2025.4.15-1
 python-httplib2 0.22.0-8
 python-ordered-set 4.1.0-7
 python-pbr 6.1.1-1
