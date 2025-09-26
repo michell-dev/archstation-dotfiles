@@ -79,7 +79,6 @@ nvme-cli 2.15-1
 obs-studio 31.1.2-1
 obsidian 1.9.12-1
 otf-material-icons-git 4.0.0.r60.gc764ca99a5f-1
-oxipng 9.1.5-1
 pa-applet-git r19.3b4f8b3-5
 patchutils 0.4.2-3
 pavucontrol 1:6.1-1
@@ -108,7 +107,6 @@ quazip-qt5 1.5-1
 radeontop 1.4-3
 ranger 1.9.4-4
 reiserfsprogs 3.6.27-5
-resvg 0.45.1-2
 rxfetch 1.0-1
 terminus-font 4.49.1-8
 thunar 4.20.5-1
